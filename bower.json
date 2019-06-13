@@ -1,0 +1,38 @@
+{
+  "name": "name",
+  "main": "./dist/name.js",
+  "version": "0.19.0",
+  "homepage": "aa",
+  "authors": [
+    "7ke"
+  ],
+  "description": "Promise based HTTP client for the browser and node.js",
+  "moduleType": [
+    "amd",
+    "globals"
+  ],
+  "keywords": [
+    "xhr",
+    "http",
+    "ajax",
+    "promise",
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "*.iml",
+    "examples",
+    "lib",
+    "node_modules",
+    "sandbox",
+    "test",
+    "CONTRIBUTING.md",
+    "COOKBOOK.md",
+    "Gruntfile.js",
+    "index.js",
+    "karma.conf.js",
+    "package.json",
+    "webpack.*.js"
+  ]
+}
